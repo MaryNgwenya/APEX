@@ -1,0 +1,8 @@
+APEX is an OOP language used by Salesforce. This is code executed through "Debug" + "Open Execute Anonymous Window"
+
+
+Account acc = new Account();
+
+String name = 'Mary';
+    
+System.debug('Hello World! My name is '+name);
